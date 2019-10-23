@@ -1,7 +1,7 @@
 ---
 author: VasNikos
 title: "Mark D. Weiser"
-image_url: /images/weiser.jpg
+image_url: /images/douglas-engelbart.jpg
 caption: "O Mark D. Weiser (23 Ιουλίου 1952 – 27 Απριλίου 1999) ήταν επικεφαλής επιστήμονας στο ερευνητικό κέντρο της Xerox PARC στις ΗΠΑ. Είναι γνωστός ώς ο πατέρας του διάχυτου υπολογισμού, ένας όρος που εφηύρε το 1988."
 categories:
   - biography
