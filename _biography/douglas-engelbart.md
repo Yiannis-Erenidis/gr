@@ -20,4 +20,4 @@ gallery:
 
 { include_relative bio-engelbart.md }
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Mark Weiser" %}
+{% include slides.html caption="Εικόνες για την βιογραφία του Douglas Engelbart" %}
