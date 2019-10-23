@@ -2,7 +2,7 @@
 author: Yiannis Erenidis
 title: "Douglas Engelbart"
 image_url: /images/douglas-engelbart.jpg
-caption: "O Mark D. Weiser (23 Ιουλίου 1952 – 27 Απριλίου 1999) ήταν επικεφαλής επιστήμονας στο ερευνητικό κέντρο της Xerox PARC στις ΗΠΑ. Είναι γνωστός ώς ο πατέρας του διάχυτου υπολογισμού, ένας όρος που εφηύρε το 1988."
+caption: "O Douglas Engelbart (30 Ιανουαρίου 1925 – 02 Ιουλίου 2013). Αμερικάνος μηχανικός και εφευρέτης. Τιμήθηκε με πολλά βραβεία όπως Turing Award, Lemelson-MIT Prize, National Medal of Technology κ.α.. Ξεκίνησε να εργάζεται την δεκαετία του 1950. Διακρίθηκε για τις πατέντες του  Graphical User Interface (GUI), groupware και computer mouse. Θεωρήθηκε ο πατέρας του ποντικιού των ηλεκτρονικών υπολογιστών."
 categories:
   - biography
 tags:
