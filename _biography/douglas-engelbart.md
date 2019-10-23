@@ -6,9 +6,9 @@ caption: "O Douglas Engelbart (30 Ιανουαρίου 1925 – 02 Ιουλίο�
 categories:
   - biography
 tags:
-  - Mark Weiser
-  - Ubiquous Computing
-  - Xerox Alto
+  - Douglas Engelbart
+  - computer mouse
+  - GUI
 gallery:
   - image_url: /images/weiser-pad-board.jpg
     caption: "Η επικονωνία ανάμεσα στην συσκευή Tab και Board έχει πολλές συνεργατικές εφαρμογές όπως σε αίθουσες συναντήσεων καθώς και σε αίθουσες διδασκαλίας."
