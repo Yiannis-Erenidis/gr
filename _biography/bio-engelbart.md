@@ -2,4 +2,6 @@
 
 Μετά την ολοκλήρωση του διδακτορικού του διπλώματος στον τομέα της ηλεκτρολογίας (Πανεπιστήμιο Καλιφόρνιας 1955) παρέμεινε ως βοηθός καθηγητή για περίπου ένα έτος όπου στη συνέχεια αποδέχτηκε μια θέση στο Stanford Research Institute (SRI). Το 1963 το SRI χρηματοδότησε το ερευνητικό εργαστήρι του Engelbart στο οποίο εργαζόταν με σκοπό την επινόηση και τελειοποίηση διαφόρων συσκευών για την εισαγωγή, τον χειρισμό και την προβολή δεδομένων (ποντίκι , παραθυρικό περιβάλλον, εισαγωγή εικόνων και αρχείων ήχου σε ένα έγγραφο).
 
-Πηγές: https://www.britannica.com/biography/Douglas-Engelbart https://en.wikipedia.org/wiki/Douglas_Engelbart
+Πηγές: https://www.britannica.com/biography/Douglas-Engelbart 
+
+https://en.wikipedia.org/wiki/Douglas_Engelbart
